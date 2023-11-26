@@ -1,0 +1,21 @@
+.searchBar{
+    display: block;
+    padding: 10px;
+    margin: 35px auto;
+    border-radius: 10px;
+    width: 400px;
+    background-color: rgb(159, 159, 159);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+div h1{
+    color: lightgray;
+    background-color: rgb(0, 0, 0);
+}
+div .head h2{
+    border: 5px solid black;
+    color: lightgray;
+    padding: 70px;
+    border-radius: 10px;
+    background-color: rgb(0, 0, 0, 0.3);
+
+}
